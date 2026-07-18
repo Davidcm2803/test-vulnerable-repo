@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    privileged: true
+    environment:
+      - DB_PASSWORD=SuperSecret123
+    volumes:
+      - /:/host
