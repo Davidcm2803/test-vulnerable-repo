@@ -1,7 +1,6 @@
 # Test Vulnerable Repo
 
-Este repo sirve para probar los scanners de tu plataforma
-No usar en produccion, tiene vulnerabilidades a proposito
+Este repo sirve para probar los scanners de tu de la aplicacion QA Secure
 
 ## Que prueba cada archivo
 
